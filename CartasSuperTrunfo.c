@@ -4,7 +4,7 @@
 int main() {
 
  printf ("Desafio super trunfo novato! \n" );
- printf("novo commit");
+ printf("novo commit\n");
 
 
 
